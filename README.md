@@ -1,5 +1,4 @@
-![Laptop](https://github.com/user-attachments/assets/0d2830cd-1f3d-4c00-9dfc-cbaa429a48af)
-
+Hello Folks!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-dhomne-9741a1219) 
 
