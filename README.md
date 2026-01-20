@@ -8,6 +8,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sakshi-Dhomne09&icon=0&color=10)](https://visitcount.itsvg.in)
 
+## 🟨 Daily Progress (Pac-Man Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
