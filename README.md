@@ -7,13 +7,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sakshi-Dhomne09&icon=0&color=10)](https://visitcount.itsvg.in)
-
+<!--
 ## 🟨 Daily Progress (Pac-Man)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sakshi-Dhomne09/Sakshi-Dhomne09/output/github-contribution-grid-snake.svg" />
 </p>
-
+--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
